@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="github",vr.mp4
+./vr.mp4
+#EXTINF:-1 group-title="github",vp9.webm
+./vp9.webm
+#EXTINF:-1 group-title="github",dolby-digital-plus-channel.mkv
+./dolby-digital-plus-channel.mkv
+#EXTINF:-1 group-title="github",dvd_subtitle.mkv
+./dvd_subtitle.mkv
+#EXTINF:-1 group-title="github",subrip.mkv
+./subrip.mkv
+#EXTINF:-1 group-title="github",h264.mp4
+./h264.mp4
+#EXTINF:-1 group-title="github",mjpeg.flac
+./mjpeg.flac
+#EXTINF:-1 group-title="github",av1.mp4
+./av1.mp4
+#EXTINF:-1 group-title="github",hevc.mkv
+./hevc.mkv
+#EXTINF:-1 group-title="github",hevc.mov
+./hevc.mov
