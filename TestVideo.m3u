@@ -3,6 +3,8 @@
 ./vr.mp4
 #EXTINF:-1 group-title="github",vp9.webm
 ./vp9.webm
+#EXTINF:-1 group-title="github",Closed Captions.ts
+./Closed Captions.ts
 #EXTINF:-1 group-title="github",dolby-digital-plus-channel.mkv
 ./dolby-digital-plus-channel.mkv
 #EXTINF:-1 group-title="github",dvd_subtitle.mkv
