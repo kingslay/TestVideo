@@ -3,6 +3,8 @@
 ./vr.mp4
 #EXTINF:-1 group-title="github",vp9.webm
 ./vp9.webm
+#EXTINF:-1 group-title="github",F4 - 流星雨.mp3
+./F4 - 流星雨.mp3
 #EXTINF:-1 group-title="github",Closed Captions.ts
 ./Closed Captions.ts
 #EXTINF:-1 group-title="github",dolby-digital-plus-channel.mkv
@@ -19,6 +21,8 @@
 ./DolbyVisionProfile5.mkv
 #EXTINF:-1 group-title="github",h264.mp4
 ./h264.mp4
+#EXTINF:-1 group-title="github",raw.h264
+./raw.h264
 #EXTINF:-1 group-title="github",mjpeg.flac
 ./mjpeg.flac
 #EXTINF:-1 group-title="github",av1.mp4
