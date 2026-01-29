@@ -17,12 +17,14 @@
 ./Standard Interlaced Stream.ts
 #EXTINF:-1 group-title="github",subrip.mkv
 ./subrip.mkv
+#EXTINF:-1 group-title="github",HDR10+.mkv
+./HDR10+.mkv
 #EXTINF:-1 group-title="github",DolbyVisionProfile5.mkv
 ./DolbyVisionProfile5.mkv
+#EXTINF:-1 group-title="github",Mystery Box Dolby Vision Profile 5.mp4
+./Mystery Box Dolby Vision Profile 5.mp4
 #EXTINF:-1 group-title="github",h264.mp4
 ./h264.mp4
-#EXTINF:-1 group-title="github",raw.h264
-./raw.h264
 #EXTINF:-1 group-title="github",mjpeg.flac
 ./mjpeg.flac
 #EXTINF:-1 group-title="github",av1.mp4
