@@ -35,3 +35,5 @@
 ./tsNoSeekByBytes.ts
 #EXTINF:-1 group-title="github",hevc.mov
 ./hevc.mov
+#EXTINF:-1 group-title="github",ChID_voices_1920x1080p_2997fps_h265_6ch_128kbps_ac4.mp4
+./ChID_voices_1920x1080p_2997fps_h265_6ch_128kbps_ac4.mp4
